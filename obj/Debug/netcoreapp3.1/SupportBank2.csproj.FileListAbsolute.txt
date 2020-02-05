@@ -1,0 +1,12 @@
+C:\Training2\SupportBank2\SupportBank2\bin\Debug\netcoreapp3.1\SupportBank2.exe
+C:\Training2\SupportBank2\SupportBank2\bin\Debug\netcoreapp3.1\SupportBank2.deps.json
+C:\Training2\SupportBank2\SupportBank2\bin\Debug\netcoreapp3.1\SupportBank2.runtimeconfig.json
+C:\Training2\SupportBank2\SupportBank2\bin\Debug\netcoreapp3.1\SupportBank2.runtimeconfig.dev.json
+C:\Training2\SupportBank2\SupportBank2\bin\Debug\netcoreapp3.1\SupportBank2.dll
+C:\Training2\SupportBank2\SupportBank2\bin\Debug\netcoreapp3.1\SupportBank2.pdb
+C:\Training2\SupportBank2\SupportBank2\obj\Debug\netcoreapp3.1\SupportBank2.csprojAssemblyReference.cache
+C:\Training2\SupportBank2\SupportBank2\obj\Debug\netcoreapp3.1\SupportBank2.AssemblyInfoInputs.cache
+C:\Training2\SupportBank2\SupportBank2\obj\Debug\netcoreapp3.1\SupportBank2.AssemblyInfo.cs
+C:\Training2\SupportBank2\SupportBank2\obj\Debug\netcoreapp3.1\SupportBank2.dll
+C:\Training2\SupportBank2\SupportBank2\obj\Debug\netcoreapp3.1\SupportBank2.pdb
+C:\Training2\SupportBank2\SupportBank2\bin\Debug\netcoreapp3.1\support-bank-resources\Transactions2014.csv

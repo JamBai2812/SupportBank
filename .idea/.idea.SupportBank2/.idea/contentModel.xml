@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Training2\SupportBank2\SupportBank2" t="IncludeRecursive">
+      <e p="Account.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Manager.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="SupportBank2.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Printer.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Reader.cs" t="Include" />
+      <e p="support-bank-resources" t="Include">
+        <e p="DodgyTransactions2015.csv" t="Include" />
+        <e p="Transactions2012.xml" t="Include" />
+        <e p="Transactions2013.json" t="Include" />
+        <e p="Transactions2014.csv" t="Include" />
+      </e>
+      <e p="SupportBank2.csproj" t="IncludeRecursive" />
+      <e p="SupportBank2.sln" t="IncludeFlat" />
+      <e p="Transaction.cs" t="Include" />
+    </e>
+    <e p="C:\Users\JamBai\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\JamBai\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SupportBank2.-1070696252.00" t="ExcludeRecursive" />
+  </component>
+</project>

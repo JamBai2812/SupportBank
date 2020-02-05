@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupportBank2", "SupportBank2.csproj", "{DD3312E5-DD45-4D8D-B73F-4E300AA8D530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3312E5-DD45-4D8D-B73F-4E300AA8D530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3312E5-DD45-4D8D-B73F-4E300AA8D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3312E5-DD45-4D8D-B73F-4E300AA8D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3312E5-DD45-4D8D-B73F-4E300AA8D530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
